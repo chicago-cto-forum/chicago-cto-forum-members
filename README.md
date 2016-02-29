@@ -2,9 +2,43 @@
 
 ## Table of Contents
 
+#### A
+
+#### B
+
 * [Bob Smith](#a-bob-smith)
+
+#### C
+
 * [Christian Charukiewicz](#a-christian-charukiewicz)
+* [Charlie Brown](#a-charlie-brown)
+
+#### D
+#### E
+#### F
+#### G
+#### H
+#### I
+#### J
+
 * [John Doe](#a-john-doe)
+
+#### K
+#### L
+#### M
+#### N
+#### O
+#### P
+#### Q
+#### R
+#### S
+#### T
+#### U
+#### V
+#### W
+#### X
+#### Y
+#### Z
 
 ## Members
 
@@ -23,6 +57,24 @@
 **LinkedIn**: https://www.linkedin.com/in/bsmith
 
 **Twitter**: https://twitter.com/bsmith
+
+--------------
+
+<a name="a-charlie-brown" />
+
+<image src="https://s3.amazonaws.com/37assets/svn/765-default-avatar.png" height="300">
+
+### Charlie Brown
+
+**Company**: [Company](https://company.com)
+
+**Position**: Chief Technology Officer
+
+**Email**: cbrown@gmail.com
+
+**LinkedIn**: https://www.linkedin.com/in/cbrown123
+
+**Twitter**: https://twitter.com/cbrown123
 
 --------------
 
