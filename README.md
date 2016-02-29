@@ -84,13 +84,13 @@
 
 ### Christian Charukiewicz
 
-       |    |
--------|-------------------------|
-**Company** | [Roompact](https://roompact.com)|
- **Position** | Chief Technology Officer |
- **Email** | c.charukiewicz@gmail.com |
- **LinkedIn** | https://www.linkedin.com/in/charukiewicz |
- **Twitter** | https://twitter.com/charukiewicz |
+|       |    |
+|-------|-------------------------|
+| **Company** | [Roompact](https://roompact.com)|
+| **Position** | Chief Technology Officer |
+| **Email** | c.charukiewicz@gmail.com |
+| **LinkedIn** | https://www.linkedin.com/in/charukiewicz |
+| **Twitter** | https://twitter.com/charukiewicz |
 
 --------------
 
