@@ -84,11 +84,13 @@
 
 ### Christian Charukiewicz
 
-* **Company**: [Roompact](https://roompact.com)
-* **Position**: Chief Technology Officer
-* **Email**: c.charukiewicz@gmail.com
-* **LinkedIn**: https://www.linkedin.com/in/charukiewicz
-* **Twitter**: https://twitter.com/charukiewicz
+       |    |
+-------|-------------------------|
+**Company** | [Roompact](https://roompact.com)|
+ **Position** | Chief Technology Officer |
+ **Email** | c.charukiewicz@gmail.com |
+ **LinkedIn** | https://www.linkedin.com/in/charukiewicz |
+ **Twitter** | https://twitter.com/charukiewicz |
 
 --------------
 
@@ -98,12 +100,8 @@
 
 ### John Doe
 
-**Company**: [ABC Company](https://google.com)
-
-**Position**: SVP of Engineering
-
-**Email**: jdoe@gmail.com
-
-**LinkedIn**: https://www.linkedin.com/in/jdoe
-
-**Twitter**: https://twitter.com/jdoe
+* **Company**: [ABC Company](https://google.com)
+* **Position**: SVP of Engineering
+* **Email**: jdoe@gmail.com
+* **LinkedIn**: https://www.linkedin.com/in/jdoe
+* **Twitter**: https://twitter.com/jdoe
