@@ -10,8 +10,8 @@
 
 #### C
 
-* [Christian Charukiewicz](#a-christian-charukiewicz)
 * [Charlie Brown](#a-charlie-brown)
+* [Christian Charukiewicz](#a-christian-charukiewicz)
 
 #### D
 #### E
@@ -66,7 +66,7 @@
 
 ### Charlie Brown
 
-**Company**: [Company](https://company.com)
+**Company**: [Company](https://google.com)
 
 **Position**: Chief Technology Officer
 
@@ -102,7 +102,7 @@
 
 ### John Doe
 
-**Company**: [Google](https://google.com)
+**Company**: [ABC Company](https://google.com)
 
 **Position**: SVP of Engineering
 
