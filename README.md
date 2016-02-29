@@ -6,59 +6,60 @@
 
 #### B
 
-* [Bob Smith](#a-bob-smith)
-
 #### C
 
 * [Charlie Brown](#a-charlie-brown)
 * [Christian Charukiewicz](#a-christian-charukiewicz)
 
 #### D
+
 #### E
+
 #### F
+
 #### G
+
 #### H
+
 #### I
+
 #### J
 
 * [John Doe](#a-john-doe)
 
 #### K
+
 #### L
+
 #### M
+
 #### N
+
 #### O
+
 #### P
+
 #### Q
+
 #### R
+
 #### S
+
 #### T
+
 #### U
+
 #### V
+
 #### W
+
 #### X
+
 #### Y
+
 #### Z
 
 ## Members
-
-<a name="a-bob-smith" />
-
-<image src="https://s3.amazonaws.com/37assets/svn/765-default-avatar.png" height="300">
-
-### Bob Smith
-
-**Company**: [XYZ Corp](https://google.com)
-
-**Position**: VP of Engineering
-
-**Email**: bsmith@gmail.com
-
-**LinkedIn**: https://www.linkedin.com/in/bsmith
-
-**Twitter**: https://twitter.com/bsmith
-
---------------
 
 <a name="a-charlie-brown" />
 
