@@ -13,6 +13,8 @@
 
 #### D
 
+* [Dan Rumney](#a-dan-rumney)
+
 #### E
 
 #### F
@@ -95,6 +97,22 @@
 
 --------------
 
+<a name="a-dan-rumney" />
+
+<image src="http://www.gravatar.com/avatar/5fee24e0fe9be354c29696359bb71b38?s=300" height="300">
+
+### Dan Rumney
+
+|       |    |
+|-------|-------------------------|
+| **Company** | [Jellyvision](https://jellyvision.com)|
+| **Position** | Director of Product Engineering |
+| **Email** | dancrumb@gmail.com |
+| **LinkedIn** | https://www.linkedin.com/in/danrumney |
+| **Twitter** | https://twitter.com/therealdancrumb |
+
+--------------
+
 <a name="a-john-doe" />
 
 <image src="https://s3.amazonaws.com/37assets/svn/765-default-avatar.png" height="300">
@@ -106,3 +124,5 @@
 * **Email**: jdoe@gmail.com
 * **LinkedIn**: https://www.linkedin.com/in/jdoe
 * **Twitter**: https://twitter.com/jdoe
+
+--------------
